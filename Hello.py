@@ -49,3 +49,10 @@ def run():
 
 if __name__ == "__main__":
     run()
+
+def introduction():
+    print("Welcome!")
+    name = input(What is your name?) 
+    print('Hello, ' + name + '!')
+    print('Please scan your reciept with the button below to start budgeting!")
+def 
